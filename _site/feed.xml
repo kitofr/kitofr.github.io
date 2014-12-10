@@ -4,10 +4,10 @@
     <title>kitofr.github.io</title>
     <description>This blog will (hopefully) be a colleciton of my ideas and reflections about topics like politics, programming, change, health
 </description>
-    <link>http://kitofr.github.io./</link>
-    <atom:link href="http://kitofr.github.io./feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 10 Dec 2014 10:10:38 +0100</pubDate>
-    <lastBuildDate>Wed, 10 Dec 2014 10:10:38 +0100</lastBuildDate>
+    <link>http://kitofr.github.io/</link>
+    <atom:link href="http://kitofr.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 10 Dec 2014 10:21:46 +0100</pubDate>
+    <lastBuildDate>Wed, 10 Dec 2014 10:21:46 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>&lt;p&gt;Not really going to say that much here…&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Dec 2014 10:54:28 +0100</pubDate>
-        <link>http://kitofr.github.io./initial/2014/12/10/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://kitofr.github.io./initial/2014/12/10/welcome-to-jekyll.html</guid>
+        <link>http://kitofr.github.io/initial/2014/12/10/hello-world.html</link>
+        <guid isPermaLink="true">http://kitofr.github.io/initial/2014/12/10/hello-world.html</guid>
         
         
         <category>initial</category>

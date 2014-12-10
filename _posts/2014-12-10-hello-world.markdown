@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello, world!"
+title:  Hello, world!
 date:   2014-12-10 09:54:28
 categories: initial
 ---
