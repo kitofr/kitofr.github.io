@@ -6,13 +6,13 @@
 </description>
     <link>http://kitofr.github.io/</link>
     <atom:link href="http://kitofr.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 10 Dec 2014 10:21:46 +0100</pubDate>
-    <lastBuildDate>Wed, 10 Dec 2014 10:21:46 +0100</lastBuildDate>
+    <pubDate>Wed, 10 Dec 2014 10:25:39 +0100</pubDate>
+    <lastBuildDate>Wed, 10 Dec 2014 10:25:39 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Hello, world!</title>
-        <description>&lt;p&gt;Not really going to say that much here…&lt;/p&gt;
+        <description>&lt;p&gt;Not really going to say that much here… but at least I think I got the “Hello, world!” right?!&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Dec 2014 10:54:28 +0100</pubDate>
         <link>http://kitofr.github.io/initial/2014/12/10/hello-world.html</link>
