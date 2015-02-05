@@ -57,4 +57,29 @@ Ibland vill man få i sig mat lite snabbare än det tar att äta en fiskskål me
 
 ### Middagar
 
+### 1. Linsgryta
+1 dl röda linser, 1 gullök, tomatpuré, 1 burk finkrossade tomater, havssalt, peppar, chilipulver, oregano, 2-3 msk kokosfett
 
+Skölj linserna och hacka under tiden löken. Bryn sedan löken gyllenbrun och blanda i tomatpurén. Lägg i de sköljda linserna och bryn snabbt. Häll sedan över en burk med krossade tomater och rör om. Krydda och låt småkoka i 30 minuter. Blanda i kokosfett. Servera!
+
+__Varför och observera__
+- Linser, grymt bra källa till protein samt lågt GI. Ät med glädje
+- Om du väljer att använda kokosfett, så se till att det är ett som inte smakar så mycket "kokos".
+
+### 2. Kalvfärsbiffar med dijoncréme och rostade grönsaker (4 pers)
+_Biffar_
+500 g kalvfärs, 2 msk hackade färska örter (t ex basilika, persilja och timjan)
+1 krm cayennepeppar, 1 ägg, 2 tsk dijonsenap, surkål, havssalt, peppar, rapsolja
+
+_Rostade grönsaker_
+4 paprikor, 1 rödlök, olivolja, havssalt, peppar
+
+Sätt ugnen på 200 grader varmluft. Skär grönsakerna i lagom stora bitar och lägg på en plåt med bakplåtspapper. Häll över lite olivolja, salt och peppar. 
+Blanda alla ingredienser till kalvfärsbiffarna. Forma till biffar och lägg dem på en plåt med bakplåtspapper. Tillaga både biffar och grönsakerna i ugnen i 20 minuter.
+Servera med surkål och dijonsenap.
+
+__Varför och observera__
+- Biffar, som tidigare; var observant på att när du äter kött, tar det längre tid att få det "ur" kroppen. Du samlar på dig lite mat innan de åker ut. Ät helst inte både kött till lunch och middag.
+- Surkål bidrar till att minska GI för hela måltiden, samt hjälper dina tarmbakterier att ta hand om maten.
+- Dijonsenap har lågt GI och kan ätas godtyckligt.
+- Kom ihåg att ha ordentligt med olja på maten!
