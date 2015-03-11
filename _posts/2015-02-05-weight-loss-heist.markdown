@@ -1,4 +1,8 @@
 ---
+layout: post
+title: Weight Loss Heist
+date: 2015-02-05 22:38:00
+categories: breakfast, weight loss, health
 published: true
 ---
 
