@@ -4,6 +4,7 @@ title: Public PGP key
 permalink: /public-key/
 ---
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: GPGTools - https://gpgtools.org
 
@@ -34,3 +35,4 @@ N9ViKei2fD4qu1hjhBR+BaGNq5+LTAdxs/z1L/eTObfF2flbYshHBqznKn60F4aB
 ZtcRGc2lS06FUuDj/Hg4llxSKkJ/ozT3EP/a+WrecYT/vSdh5sCEqo8rClia
 =rgny
 -----END PGP PUBLIC KEY BLOCK----- 
+```
