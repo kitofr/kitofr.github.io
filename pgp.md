@@ -1,6 +1,6 @@
 ---
 layout: page
-title: public pgp key
+title: Public PGP key
 permalink: /public-key/
 ---
 
