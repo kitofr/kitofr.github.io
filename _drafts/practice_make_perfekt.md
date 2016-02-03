@@ -29,9 +29,16 @@ You have approximately 3 ways of generating money off your team.
 
 **Now imagine you banned practice.**
 
-Practice does not generate any money, right. It does not raise the value of the players, because they are only evaluated
+**ALL PRACTICE**
+All players need to play games. All the time. If someone wanted to *practice* on something,
+the player need to ensure it does not interfere with eating and resting schedules. It 
+has to be *off hours*. Should not interfere with the rest off the team.  
+
+Your motivation for this would be:
+
+Practice does not generate any money. It does not raise the value of the players, because they are only evaluated
 while playing. The team doesn't *win* anything during practice, nor can you sell
-any advertising on television during practice. *Useless*. 
+any advertising on television during practice.
 
 ## WAIT... say WHAT?
 Most people coming into any profession knows that there's a path to excellence in
