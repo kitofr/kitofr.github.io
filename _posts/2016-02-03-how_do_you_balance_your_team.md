@@ -84,5 +84,5 @@ your team mates to be best at every position, merely to know how to play that pa
 
 ### Additional notes
 I realize that even how much I ever wanted to, I would not be able to write an exhaustive 
-post on this matter, because it is to grand. However; I would like to give some pointers and
+post on this matter, because it is to grand. However; the aim is to give some pointers and
 hopefully come back to this from another angle later on.
