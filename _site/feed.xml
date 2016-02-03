@@ -6,9 +6,33 @@
 </description>
     <link>http://kitofr.github.io/</link>
     <atom:link href="http://kitofr.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 03 Feb 2016 10:15:17 +0100</pubDate>
-    <lastBuildDate>Wed, 03 Feb 2016 10:15:17 +0100</lastBuildDate>
+    <pubDate>Wed, 03 Feb 2016 10:55:56 +0100</pubDate>
+    <lastBuildDate>Wed, 03 Feb 2016 10:55:56 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Hello</title>
+        <description>&lt;p&gt;So, I realized I wanted to start writing again. 
+Not that I’ve been an extensive writer in the past, but 
+I ideas keep popping up that I want to write down. Hence,
+this blog.&lt;/p&gt;
+
+&lt;p&gt;OK, now as we got that figured out; what the heck am I going to blog about?
+As mentioned, different inquiries keep coming back to me. Philosophical, technical
+and various other subjects, such as health, learning, motivation. &lt;/p&gt;
+
+&lt;p&gt;I hope you enjoy can inspire me to write more, and gain better insights on the subject
+at hand. &lt;/p&gt;
+
+&lt;p&gt;Cheers,
+Kristoffer&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Feb 2016 00:00:00 +0100</pubDate>
+        <link>http://kitofr.github.io/2016/02/03/hello.html</link>
+        <guid isPermaLink="true">http://kitofr.github.io/2016/02/03/hello.html</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>
