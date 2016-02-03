@@ -70,10 +70,16 @@ practice time.
 
 I think there's something hidden between the lines in that quote. I believe Steve 
 expect smart people to practice. I believe that is as given as gravity. 
-Without practice skills degenerate. You don't advance and motivation falters.
+Without practice skills degenerate. You don't advance and motivation falters. 
+Smart people know that they need to sharpen their knifes. 
 
+Given this:
 
-## Practice, skill and motivation
+ - How come we don't practice[^practice] at work?
+ - How come, most programmers I know (me included) are only *"half good"* at touch typing?
+ - What would happen if not practicing, say 80% of the time, was considered misconduct[^misconduct]?
+
+## I spy problems
 
 ## Individual expertise
 
@@ -84,4 +90,7 @@ Without practice skills degenerate. You don't advance and motivation falters.
 I notice that once again I will have to come back to this inquiry to exploit it even further. 
 Especially some parts that are left out. Degradation of learned skills without further practice, 
 organizational wide practice and motivation.
+
+[^practice]: Yes I know, good people practice, but that mostly occur *after hours*.
+[^misconduct]: It would be for Zlatan remember?
 
