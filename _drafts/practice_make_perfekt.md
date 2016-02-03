@@ -62,7 +62,7 @@ Oh, so that ratio is quite interesting. Even for a lazy student. **1-2 hours of 
 Now I know per fact that most professional musicians practice around 4-8 hours per day.
 Most of them have done so since they were 4-6 years old. I also know that a lot of the
 professional athletes, artists out there are in the same ball park. Most of them, specially 
-athletes, don't *races* more than a couple of times per year, and at a fraction of the 
+athletes, don't *race* more than a couple of times per year, and at a fraction of the 
 practice time.
 
 ## The dysfunction of the everyday company 
