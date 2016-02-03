@@ -63,7 +63,7 @@ Now I know per fact that most professional musicians practice around 4-8 hours p
 Most of them have done so since they were 4-6 years old. I also know that a lot of the
 professional athletes, artists out there are in the same ball park. Most of them, specially 
 athletes, don't *race* more than a couple of times per year, and at a fraction of the 
-practice time.
+practice time[^races].
 
 ## The dysfunction of the everyday company 
 *"It doesn't make sense to hire smart people and then tell them what to do; we hire smart people so they can tell us what to do. - Steve Jobs"*
@@ -91,6 +91,8 @@ I notice that once again I will have to come back to this inquiry to exploit it 
 Especially some parts that are left out. Degradation of learned skills without further practice, 
 organizational wide practice and motivation.
 
+
+[^races]: Most athletes also do practice races. So that they prepare for the ones they really want to win, with as similar conditions as possible.
 [^practice]: Yes I know, good people practice, but that mostly occur *after hours*.
 [^misconduct]: It would be for Zlatan remember?
 

@@ -6,8 +6,8 @@
 </description>
     <link>http://kitofr.github.io/</link>
     <atom:link href="http://kitofr.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 03 Feb 2016 16:49:21 +0100</pubDate>
-    <lastBuildDate>Wed, 03 Feb 2016 16:49:21 +0100</lastBuildDate>
+    <pubDate>Wed, 03 Feb 2016 16:53:25 +0100</pubDate>
+    <lastBuildDate>Wed, 03 Feb 2016 16:53:25 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -74,7 +74,7 @@ would give 700 hours per year. For 3 years, 2100 hours. &lt;/p&gt;
 Most of them have done so since they were 4-6 years old. I also know that a lot of the
 professional athletes, artists out there are in the same ball park. Most of them, specially 
 athletes, don’t &lt;em&gt;race&lt;/em&gt; more than a couple of times per year, and at a fraction of the 
-practice time.&lt;/p&gt;
+practice time&lt;sup id=&quot;fnref:races&quot;&gt;&lt;a href=&quot;#fn:races&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-dysfunction-of-the-everyday-company&quot;&gt;The dysfunction of the everyday company&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;“It doesn’t make sense to hire smart people and then tell them what to do; we hire smart people so they can tell us what to do. - Steve Jobs”&lt;/em&gt;&lt;/p&gt;
@@ -87,9 +87,9 @@ Smart people know that they need to sharpen their knifes. &lt;/p&gt;
 &lt;p&gt;Given this:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;How come we don’t practice&lt;sup id=&quot;fnref:practice&quot;&gt;&lt;a href=&quot;#fn:practice&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; at work?&lt;/li&gt;
+  &lt;li&gt;How come we don’t practice&lt;sup id=&quot;fnref:practice&quot;&gt;&lt;a href=&quot;#fn:practice&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; at work?&lt;/li&gt;
   &lt;li&gt;How come, most programmers I know (me included) are only &lt;em&gt;“half good”&lt;/em&gt; at touch typing?&lt;/li&gt;
-  &lt;li&gt;What would happen if not practicing, say 80% of the time, was considered misconduct&lt;sup id=&quot;fnref:misconduct&quot;&gt;&lt;a href=&quot;#fn:misconduct&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;?&lt;/li&gt;
+  &lt;li&gt;What would happen if not practicing, say 80% of the time, was considered misconduct&lt;sup id=&quot;fnref:misconduct&quot;&gt;&lt;a href=&quot;#fn:misconduct&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;?&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;i-spy-problems&quot;&gt;I spy problems&lt;/h2&gt;
@@ -105,6 +105,9 @@ organizational wide practice and motivation.&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
+    &lt;li id=&quot;fn:races&quot;&gt;
+      &lt;p&gt;Most athletes also do practice races. So that they prepare for the ones they really want to win, with as similar conditions as possible. &lt;a href=&quot;#fnref:races&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
     &lt;li id=&quot;fn:practice&quot;&gt;
       &lt;p&gt;Yes I know, good people practice, but that mostly occur &lt;em&gt;after hours&lt;/em&gt;. &lt;a href=&quot;#fnref:practice&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
@@ -114,7 +117,7 @@ organizational wide practice and motivation.&lt;/p&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Wed, 03 Feb 2016 16:49:21 +0100</pubDate>
+        <pubDate>Wed, 03 Feb 2016 16:53:25 +0100</pubDate>
         <link>http://kitofr.github.io/2016/02/03/practice_make_perfekt.html</link>
         <guid isPermaLink="true">http://kitofr.github.io/2016/02/03/practice_make_perfekt.html</guid>
         
