@@ -27,8 +27,9 @@ You have approximately 3 ways of generating money off your team.
   2. Your team becomes successful and the value of the team rises.
   3. Advertising during game play on television.
 
-Now imagine you banned practice. Practice does not generate any money, right.
-Practice does not raise the value of the players, because they are only evaluated
+**Now imagine you banned practice.**
+
+Practice does not generate any money, right. It does not raise the value of the players, because they are only evaluated
 while playing. The team doesn't *win* anything during practice, nor can you sell
 any advertising on television during practice. *Useless*. 
 
