@@ -40,24 +40,48 @@ artists like [Madonna](https://en.wikipedia.org/wiki/Madonna_(entertainer)), pai
  do some kind of practice to keep their game sharp.
 As a matter of fact. Practice is **most** of what they do.
 
+#### Me as an example
 When I grew up I used to play the guitar. After a couple of years fiddling, I became 
 quite good. I ended up going to school at [Södra Latins Gymnasium](http://sodralatinsgymnasium.stockholm.se/)
-in Stockholm. During my years there I practiced about 3-8 hours per day. Every day. All week. 
+in Stockholm, playing the classical guitar. During my years there I practiced about 3-8 hours per day. Every day. All week. 
 For 3 years.
 
-In comparison to that, I think I did around 20 concerts, which would roughly total a hefty 60-120 min of 
-*game play*. 1 to 2 hours!
+In comparison to that, I think I did around 20 concerts. I played in various ensembles, a guitar quartet, and solo.
+Most pieces range between 3-5 minutes of play. Which would roughly total a hefty 60-120 min of 
+*game play*. 1 to 2 hours in 3 years!
 
-I think some mathematics is suitable here.
-Say I was a lazy student. Practicing only the bare minimum and hitting around 1 hour day.
-That would give 7 hours per week. 50 weeks per year (hey you need some breaks as well right?)
-would give 350 hours per year. For 3 years, 1050 hours. 
+I think some mathematics would be suitable here.
+
+Say I was a lazy student. Practicing only the bare minimum and hitting around 2 hour day.
+That would give 14 hours per week. 50 weeks per year (hey you need some breaks as well right?)
+would give 700 hours per year. For 3 years, 2100 hours. 
 
 Oh, so that ratio is quite interesting. Even for a lazy student. **1-2 hours of game per 
-1050 hours of practice!**
+2100 hours of practice!**
+
+Now I know per fact that most professional musicians practice around 4-8 hours per day.
+Most of them have done so since they were 4-6 years old. I also know that a lot of the
+professional athletes, artists out there are in the same ball park. Most of them, specially 
+athletes, don't *races* more than a couple of times per year, and at a fraction of the 
+practice time.
+
+## The dysfunction of the everyday company 
+*"It doesn't make sense to hire smart people and then tell them what to do; we hire smart people so they can tell us what to do. - Steve Jobs"*
+
+I think there's something hidden between the lines in that quote. I believe Steve 
+expect smart people to practice. I believe that is as given as gravity. 
+Without practice skills degenerate. You don't advance and motivation falters.
+
 
 ## Practice, skill and motivation
 
 ## Individual expertise
 
 ## Team practice
+
+
+### Addition notes
+I notice that once again I will have to come back to this inquiry to exploit it even further. 
+Especially some parts that are left out. Degradation of learned skills without further practice, 
+organizational wide practice and motivation.
+
