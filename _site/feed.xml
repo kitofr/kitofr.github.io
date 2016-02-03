@@ -6,33 +6,9 @@
 </description>
     <link>http://kitofr.github.io/</link>
     <atom:link href="http://kitofr.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 15 Dec 2014 13:03:07 +0100</pubDate>
-    <lastBuildDate>Mon, 15 Dec 2014 13:03:07 +0100</lastBuildDate>
+    <pubDate>Wed, 03 Feb 2016 10:15:17 +0100</pubDate>
+    <lastBuildDate>Wed, 03 Feb 2016 10:15:17 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
-    
-      <item>
-        <title>How_do_you_balance_your_team</title>
-        <description>
-</description>
-        <pubDate>Mon, 15 Dec 2014 13:01:58 +0100</pubDate>
-        <link>http://kitofr.github.io/2014/12/15/how_do_you_balance_your_team.html</link>
-        <guid isPermaLink="true">http://kitofr.github.io/2014/12/15/how_do_you_balance_your_team.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Hello, world!</title>
-        <description>&lt;p&gt;Not really going to say that much here… but at least I think I got the “Hello, world!” right?!&lt;/p&gt;
-</description>
-        <pubDate>Wed, 10 Dec 2014 10:54:28 +0100</pubDate>
-        <link>http://kitofr.github.io/initial/2014/12/10/hello-world.html</link>
-        <guid isPermaLink="true">http://kitofr.github.io/initial/2014/12/10/hello-world.html</guid>
-        
-        
-        <category>initial</category>
-        
-      </item>
     
   </channel>
 </rss>
