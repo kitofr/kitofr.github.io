@@ -9,7 +9,7 @@ not yielding, collaborating or has some other dysfunction. Let us dig in to it.
 I've had this idea for quite some time now, that teams needs to be balanced to perform at their peak.
 Much like a sports team. So lets take a detour into lacrosse land. I was thinking soccer first, but that's to boring. 
 
-### Some background on Lacrosse first. 
+### Some background on [Lacrosse]( https://en.wikipedia.org/wiki/Lacrosse ) first. 
 Lacrosse is a ball game played on a big green turf, with 10 players in each team. 
 The team roughly consists of 1 goalie, 3 defenders, 3 mid fielders (midies) and 3 attack men.
 The goal of the game is to toss a rubber ball into the goal of the other team more times
