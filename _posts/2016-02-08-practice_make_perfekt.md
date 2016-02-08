@@ -85,18 +85,13 @@ Given this:
  - How come we don't practice[^practice] at work?
  - How come, most programmers I know (me included) are only *"half good"* at touch typing?
  - What would happen if not practicing, say 80% of the time, was considered misconduct[^misconduct]?
+ - When was the last time you practiced reading?
 
 ## I spy problems
-
-## Individual expertise
-
-## Team practice
-
-
-### Addition notes
-I notice that once again I will have to come back to this inquiry to exploit it even further. 
-Especially some parts that are left out. Degradation of learned skills without further practice, 
-organizational wide practice and motivation.
+The more I think about this I realize it is a to grand topic for one post.
+Therefore I will dedicate a couple of posts to the subject. 
+I will dig into deliberate personal and team practice, degradation 
+of learned skills, organizational wide practice.
 
 
 [^races]: Most athletes also do practice races. So that they prepare for the ones they really want to win, with as similar conditions as possible.
