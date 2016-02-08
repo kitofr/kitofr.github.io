@@ -30,6 +30,7 @@ You have approximately 3 ways of generating money off your team.
 **Now imagine you banned practice.**
 
 **ALL PRACTICE**
+
 All players need to play games. All the time. If someone wanted to *practice* on something,
 the player need to ensure it does not interfere with eating and resting schedules. It 
 has to be *off hours*. Should not interfere with the rest off the team.  
