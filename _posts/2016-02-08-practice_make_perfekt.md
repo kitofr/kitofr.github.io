@@ -46,7 +46,7 @@ Most people coming into any profession knows that there's a path to excellence i
 that area. There's no question that soccer players like [Zlatan](https://en.wikipedia.org/wiki/Zlatan_Ibrahimovi%C4%87), 
 artists like [Madonna](https://en.wikipedia.org/wiki/Madonna_(entertainer)), painters, chess players et al
  do some kind of practice to keep their game sharp.
-As a matter of fact. Practice is **most** of what they do.
+As a matter of fact, practice is **most** of what they do.
 
 #### Me as an example
 When I grew up I used to play the guitar. After a couple of years fiddling, I became 
