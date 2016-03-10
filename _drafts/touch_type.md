@@ -1,5 +1,6 @@
 ---
 layout: post
-title: Mechanic skill - Touch Typing
+title: Mechanical Skill: Touch Type
 ---
 
+## Touch Typing
